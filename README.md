@@ -41,6 +41,7 @@
 4. 操作系统需安装图形化界面，否则无法正常运行  
    Operation System must contain Window System especially about Linux OS without "X Window System" installed. Otherwise it cannot run properly.  
 
-###### 使用指南 Manual：[readme](http://139.155.13.244/README.html)
+###### 使用指南 Manual：
 <video poster="http://139.155.13.244/poster.png" src="http://139.155.13.244/README.mp4" controls="controls" preload="auto" autoplay="autoplay">视频异常
 </video>
+[如视频异常，请点击此处](http://139.155.13.244/README.html)
