@@ -39,7 +39,9 @@
 3. JDK版本使用1.8  
    JDK Version 1.8
 4. 操作系统需安装图形化界面，否则无法正常运行  
-   Operation System must contain Window System especially about Linux OS without "X Window System" installed. Otherwise it cannot run properly.  
+   Operation System must contain Window System especially about Linux OS without "X Window System" installed. Otherwise it cannot run properly.
+5. 能够顺畅访问Internet  
+   Ensure that the application can access Internet smoothly
 
 ###### 使用指南视频 Tutorial Video ：
 <video poster="http://139.155.13.244/poster.png" src="http://139.155.13.244/README.webm" controls="controls" preload="auto" autoplay="autoplay">[如视频异常，请点击此处](http://139.155.13.244/README.html)
